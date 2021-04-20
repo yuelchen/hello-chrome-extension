@@ -14,7 +14,7 @@ An extension that will try to save you money by applying all known coupons and d
 
 ## Repository Overview
 ### Documentation (docs/)
-\[[manifest.json\]]()
+\[[About manifest.json\]]()
 
 ### Projects
 🎯 hello-world/
