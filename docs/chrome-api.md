@@ -1,4 +1,4 @@
-### Chrome API's
+### Chrome API (action)
 Dont forget to define the Chrome API in permissions. 
 
 #### Chrome Storage API ([chrome.storage](https://developer.chrome.com/docs/extensions/reference/storage/))
