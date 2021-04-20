@@ -20,5 +20,5 @@ An extension that will try to save you money by applying all known coupons and d
 
 ### Projects
 #### 🎯 [hello-world](https://github.com/yuelchen/hello-chrome-extension/tree/main/hello-world)/  
-![Hello, World! Preview](https://github.com/yuelchen/hello-chrome-extension/blob/main/hello-world/preview.png)
+[![Hello, World! Preview](https://github.com/yuelchen/hello-chrome-extension/blob/main/hello-world/preview.png)](https://github.com/yuelchen/hello-chrome-extension/tree/main/hello-world)
 An extension which opens a custom new tab page with the _iconic_ "Hello, World!" text bouncing.
