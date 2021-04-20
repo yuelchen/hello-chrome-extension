@@ -14,7 +14,7 @@ An extension that will try to save you money by applying all known coupons and d
 
 ## Repository Overview
 ### Documentation (docs/)
-\[[About manifest.json\]]()
+\[[About manifest.json\]](https://github.com/yuelchen/hello-chrome-extension/blob/main/docs/manifest-json.md)
 
 ### Projects
 🎯 hello-world/
