@@ -1,5 +1,5 @@
 # hello-chrome-extension
-Introductory or sample projects to get familiar with Chrome extensions. 
+Introductory project to get familiar with Chrome extensions. 
 
 ## What is a browser extension?
 A browser extension is a small software module that can be installed and allows customization of the end-users browser.  
