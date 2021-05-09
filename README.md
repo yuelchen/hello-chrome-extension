@@ -5,7 +5,7 @@ Introductory project to get familiar with Chrome extensions.
 A browser extension is a small software module that can be installed and allows customization of the end-users browser.  
 
 ## Preview:
-![Hello, World! Preview](https://github.com/yuelchen/hello-chrome-extension/blob/main/hello-world/preview.png)
+![Hello, World! Preview](https://github.com/yuelchen/hello-chrome-extension/blob/main/hello-world-react/public/preview.png)
 
 ---
 ## Repository Overview
