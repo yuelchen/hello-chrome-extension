@@ -1,0 +1,17 @@
+{
+  "name": "Hello, World!",
+  "description": "A intro to Chrome extensions.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab"],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "action": {
+    "default_icon": {
+      "16": "/icon/helloWorld16.png",
+      "48": "/icon/helloWorld48.png",
+      "128": "/icon/helloWorld128.png"
+    }
+  }
+}

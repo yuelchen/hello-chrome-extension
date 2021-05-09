@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hello-chrome-extension/static/css/main.b78f94a7.chunk.css",
+    "main.js": "/hello-chrome-extension/static/js/main.7f0715af.chunk.js",
+    "main.js.map": "/hello-chrome-extension/static/js/main.7f0715af.chunk.js.map",
+    "runtime-main.js": "/hello-chrome-extension/static/js/runtime-main.33e121f8.js",
+    "runtime-main.js.map": "/hello-chrome-extension/static/js/runtime-main.33e121f8.js.map",
+    "static/js/2.9b9bcdb7.chunk.js": "/hello-chrome-extension/static/js/2.9b9bcdb7.chunk.js",
+    "static/js/2.9b9bcdb7.chunk.js.map": "/hello-chrome-extension/static/js/2.9b9bcdb7.chunk.js.map",
+    "index.html": "/hello-chrome-extension/index.html",
+    "static/css/main.b78f94a7.chunk.css.map": "/hello-chrome-extension/static/css/main.b78f94a7.chunk.css.map",
+    "static/js/2.9b9bcdb7.chunk.js.LICENSE.txt": "/hello-chrome-extension/static/js/2.9b9bcdb7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/hello-chrome-extension/static/media/Roboto-Light.8be2d148.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33e121f8.js",
+    "static/js/2.9b9bcdb7.chunk.js",
+    "static/css/main.b78f94a7.chunk.css",
+    "static/js/main.7f0715af.chunk.js"
+  ]
+}
